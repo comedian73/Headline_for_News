@@ -18,4 +18,4 @@ transformers - библиотека для работы с языковыми м
 
 Получилась нейронная сеть умеющая генерировать заголовки для новострых статей. Качество генерации достаточно чтобы получить хороший заголовок для статьи.
 
-Просмотреть код, выполнить его можно перейти по ссылке в [Google Colab](https://colab.research.google.com/drive/1wK-kusavdQgrI-5OKaxmIb0SBFrm5-rf?usp=sharing)
+Просмотреть код, выполнить его можно перейдя по ссылке в [Google Colab](https://colab.research.google.com/drive/1wK-kusavdQgrI-5OKaxmIb0SBFrm5-rf?usp=sharing)
